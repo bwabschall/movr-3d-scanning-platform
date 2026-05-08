@@ -20,5 +20,4 @@ Deployment-specific configuration, credentials, and private endpoints have been 
 
 • Collaborated on a proof-of-concept virtual object scanning platform bridging real-world capture with digital model deployment.
 <img width="504" height="1120" alt="scanner demo-1" src="https://github.com/user-attachments/assets/7eca008a-0c69-4688-97da-b16aa84b7e3e" />
-<img width="504" height="1120" alt="scanner demo-1" src="https://github.com/user-attachments/assets/2934523b-9ff0-4dc6-9099-181e2465b8ca" />
 <img width="504" height="1120" alt="scanner demo-3" src="https://github.com/user-attachments/assets/6a1f25b0-6107-4407-9712-eb9af954567c" />
