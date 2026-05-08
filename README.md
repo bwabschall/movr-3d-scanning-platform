@@ -19,3 +19,6 @@ Deployment-specific configuration, credentials, and private endpoints have been 
 • Designed end-to-end workflows spanning mobile development, cloud infrastructure, REST APIs, asynchronous processing, and 3D asset handling.
 
 • Collaborated on a proof-of-concept virtual object scanning platform bridging real-world capture with digital model deployment.
+
+<img width="504" height="1120" alt="scanner demo-1" src="https://github.com/user-attachments/assets/2934523b-9ff0-4dc6-9099-181e2465b8ca" />
+<img width="504" height="1120" alt="scanner demo-3" src="https://github.com/user-attachments/assets/6a1f25b0-6107-4407-9712-eb9af954567c" />
