@@ -1,0 +1,8 @@
+trimesh
+boto3
+numpy
+Pillow
+scipy
+networkx
+pyglet
+imageio
