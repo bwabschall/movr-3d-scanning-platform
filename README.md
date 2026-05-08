@@ -1,4 +1,15 @@
 # movr-3d-scanning-platform
+Sanitized proof-of-concept capstone project demonstrating:
+
+- Android image capture workflows (CameraX)
+- Multipart upload pipelines
+- AWS Lambda orchestration
+- S3-triggered 3D model conversion
+- Autodesk Reality Capture integration
+- OBJ → GLB automation pipeline
+
+Deployment-specific configuration, credentials, and private endpoints have been removed.
+
 • Developed an Android application for guided object capture using CameraX, integrating image collection, scene management, and asynchronous upload workflows.
 
 • Built cloud-based processing pipelines using AWS Lambda, S3, and API Gateway to automate photogrammetry processing and downstream 3D model conversion.
